@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Xilinx/EstructuracionP1/ProgramaTabla318.xst" -ofn "C:/Xilinx/EstructuracionP1/ProgramaTabla318.syr" 

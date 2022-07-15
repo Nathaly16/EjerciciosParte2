@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Xilinx/EstructuracionP1/RegistroDespSerie.xst" -ofn "C:/Xilinx/EstructuracionP1/RegistroDespSerie.syr" 
+xst -intstyle ise -ifn "C:/Xilinx/EstructuracionP1/RegistroDespSerie.xst" -ofn "C:/Xilinx/EstructuracionP1/RegistroDespSerie.syr" 

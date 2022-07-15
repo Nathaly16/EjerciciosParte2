@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Xilinx/EstructuracionP1/FlipFlop_T.xst" -ofn "C:/Xilinx/EstructuracionP1/FlipFlop_T.syr" 

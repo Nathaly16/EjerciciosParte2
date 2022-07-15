@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Xilinx/EstructuracionP1/Divisor17_isim_beh.exe" -prj "C:/Xilinx/EstructuracionP1/Divisor17_beh.prj" "work.Divisor17" 
