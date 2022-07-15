@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Xilinx/EstructuracionP1/ContadorAsDes310.xst" -ofn "C:/Xilinx/EstructuracionP1/ContadorAsDes310.syr" 
